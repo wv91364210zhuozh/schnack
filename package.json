@@ -57,7 +57,7 @@
         "sqlite": "^4.0.19",
         "sqlite3": "^4.2.0",
         "unfetch": "^4.2.0",
-        "web-push": "^3.4.4"
+        "web-push": "^3.4.5"
     },
     "devDependencies": {
         "@rollup/plugin-buble": "^0.21.3",
